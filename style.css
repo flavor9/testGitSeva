@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.block {
+  font-size: 34px;
+  color: brown;
+  text-align: center;
+  margin-top: 150px;
+  cursor: pointer;
+}
